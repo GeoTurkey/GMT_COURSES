@@ -1,3 +1,11 @@
+# this is a file created by Engin
+# it includes data of air pollution
+# collected from three stations
+# Paris, London, Antwerp
+# THe first eight rows are comments and must be skipped while uploading by pandas.read_csv
+#**********************************************************************************
+####################################################################################3
+#/)((//&)/%(&/)=(?=_)=?)()/  dfjertj34ı58b 880980945834*68
 city,country,date.utc,location,parameter,value,unit
 Antwerpen,BE,2019-06-18 06:00:00+00:00,BETR801,pm25,18.0,µg/m³
 Antwerpen,BE,2019-06-17 08:00:00+00:00,BETR801,pm25,6.5,µg/m³
