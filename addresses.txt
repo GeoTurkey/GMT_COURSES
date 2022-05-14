@@ -1,0 +1,11 @@
+﻿id;addr
+1;Kuğulu Park, Remzi Oğuz Arık Mahallesi, Ankara, Çankaya, Ankara, İç Anadolu Bölgesi, Türkiye
+2;Göksu Parkı, Göksu Mahallesi, Etimesgut, Ankara, İç Anadolu Bölgesi, Türkiye
+3;Anıtkabir, Aslanlı Yol, Mebusevleri Mahallesi, Ankara, Çankaya, Ankara, İç Anadolu Bölgesi, 06580, Türkiye
+4;Anadolu Medeniyetleri Müzesi, Gözcü Sokak, Kale Mahallesi, Altındağ, Ankara, İç Anadolu Bölgesi, 06250, Türkiye
+5;Hamamönü Meydanı, Ulucanlar, Hacettepe Mahallesi, Altındağ, Ankara, İç Anadolu Bölgesi, Türkiye 
+6;Eymir Gölü, Gölbaşı, Ankara, İç Anadolu Bölgesi, Türkiye
+7;Ankara Kalesi, Kağnı Sokak, Kale Mahallesi, Altındağ, Ankara, İç Anadolu Bölgesi, 06250, Türkiye
+8;ANKAmall, Fatih Sultan Mehmet Bulvarı, Gazi Mahallesi, Yenimahalle, Ankara, İç Anadolu Bölgesi, 06560, Türkiye
+9;Kentpark Alışveriş Merkezi, 2121. Sokak, Mustafa Kemal Mahallesi, Ankara, Çankaya, Ankara, İç Anadolu Bölgesi, 06510, Türkiye 
+10;Atakule, Cinnah Caddesi, Çankaya Mahallesi, Ankara, Çankaya, Ankara, İç Anadolu Bölgesi, 65, Türkiye 
